@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Locations in UC Berkeley
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Hi there, you must be a new student! Here is a beginner's guide to important places and services in Berkeley. Check each resource's official webpage for current access details.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
