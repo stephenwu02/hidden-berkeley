@@ -1,9 +1,10 @@
 location_id,name,category,area,access_note,source_url
 HB01,D-Lab,methods support,Social Sciences Building,Check the official site for current access details,https://dlab.berkeley.edu/
 HB02,BAMPFA Film Library and Study Center,media research,Downtown Berkeley,Confirm appointments and access on the official site,https://bampfa.org/
-HB03,Morrison Library,quiet reading,Doe Library,Library access policies can change,https://www.lib.berkeley.edu/
+HB03,Morrison Library,quiet reading,Doe Library,"Open to public, UC Berkeley library card is needed to check out materials. Wheelchair accessible. Opening hours vary (check website for details)",https://www.lib.berkeley.edu/visit/morrison
 HB04,Jacobs Institute Makerspace,prototyping,North campus,Training may be required before equipment use,https://jacobsinstitute.berkeley.edu/
 HB05,Basic Needs Center,student support,UC Berkeley,Use official pages for eligibility and hours,https://basicneeds.berkeley.edu/
 HB06,Disabled Students' Program,access support,UC Berkeley,Do not publish private accommodation information,https://dsp.berkeley.edu/
 HB07,Berkeley Art Museum and Pacific Film Archive,arts and archives,Downtown Berkeley,Admission and hours vary,https://bampfa.org/
 HB08,UC Botanical Garden,field observation,Strawberry Canyon,Check current reservations and transit,https://botanicalgarden.berkeley.edu/
+HB09,UC Berkeley Student Union,student community,UC Berkeley MLK Jr. Building,"Open daily from 8 am - 10 pm except for Sundays (8 am - 8 pm). Access limited to UC Berkeley students, faculty/staff/affliate members and their accompanied guests. Visitors may be asked to provide proof of affliation through a current, physical UC Berkeley Cal1 Card.",https://studentunion.berkeley.edu/
