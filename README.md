@@ -17,7 +17,8 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+The guide is meant for new students coming to UC Berkeley, who need a beginner's guide to resources and spaces that they can access. I added the UC Berkeley Student Union as a resource, from the following link: https://studentunion.berkeley.edu/. After doing the previous steps, I checked that the 9 entries match the csv, that my improved note is what I edited, and the new entry reflects what I have written. I checked that the links I added worked and went to where I intended to link the resources to. I also double checked that my title and introduction from the first step remains as it is.
+
 
 ## Website checks
 
